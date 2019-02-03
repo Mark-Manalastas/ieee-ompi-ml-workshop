@@ -8,7 +8,7 @@ The goal of this workshop is to survey the field of machine learning and deep le
 
 # Workshop Organization
 This workshop contains the following section:
-- [An introduction to Google Cloud Platform (GCP)](#intro-gcp.ipynb)
+- <a href="./intro-gcp.ipynb">An Introduction to Google Cloud Platform (GCP)</a>
 - Steps to set-up an account on GCP
 - Working with Google Cloud Datalab
 - Using Google Colaboratory
