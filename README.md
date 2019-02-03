@@ -30,4 +30,8 @@ This workshop contains the following section:
 - <a href="./dataflow.ipynb">Large Scale Data transformation with Google Cloud Dataflow</a>
 - <a href="./cloud-mle.ipynb">Training and Inference at scale with Google Cloud Machine Learning Engine</a>
 
-# Workshop Organizers:
+# Organizers:
+<p align="left">
+    <img src="ieee-ompi/ieee_carleton.png" alt="IEEE Carleton." height=60% width=60%/>
+    <img src="ieee-ompi/ompi.png" alt="Ottawa Medical Physics Institute." height=60% width=60%/>
+</p>
