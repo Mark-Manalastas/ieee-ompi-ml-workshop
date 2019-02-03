@@ -9,12 +9,12 @@ The goal of this workshop is to survey the field of machine learning and deep le
 # Workshop Organization
 This workshop contains the following section:
 - <a href="./intro-gcp.ipynb">An Introduction to Google Cloud Platform (GCP)</a>
-- Steps to set-up an account on GCP
-- Working with Google Cloud Datalab
-- Using Google Colaboratory
-- An Overview of Machine Learning
-- Linear Regression
-- Logistic Regression
-- Introducting Deep Learning
-- Large Scale Data transformation with Google Cloud Dataflow
-- Training and Inference at scale with Google Cloud Machine Learning Engine
+- <a href="./setting-up-gcp.ipynb">Steps to set-up an account on GCP</a>
+- <a href="./datalab.ipynb">Working with Google Cloud Datalab</a>
+- <a href="./google-colab.ipynb">Using Google Colaboratory</a>
+- <a href="./ml-overview.ipynb">An Overview of Machine Learning</a>
+- <a href="./linear_regression.ipynb">Linear Regression</a>
+- <a href="./logistic_regression.ipynb">Logistic Regression</a>
+- <a href="./deep_learning.ipynb">Introducting Deep Learning</a>
+- <a href="./dataflow.ipynb">Large Scale Data transformation with Google Cloud Dataflow</a>
+- <a href="./cloud-mle.ipynb">Training and Inference at scale with Google Cloud Machine Learning Engine</a>
