@@ -30,6 +30,10 @@ This workshop contains the following section:
 - <a href="./dataflow.ipynb">Large Scale Data transformation with Google Cloud Dataflow</a>
 - <a href="./cloud-mle.ipynb">Training and Inference at scale with Google Cloud Machine Learning Engine</a>
 
+The contents of this workshop are excepts from the book **Building Machine Learning and Deep Learning Models on Google Cloud Platform: A Comprehensive Guide for Beginners** published by Apress (Springer Nature). **To be released July 2019.**
+
+<img src="https://ekababisong.org/assets/books/BisongHiRes.jpg" alt="gcp-ml-dl-book" width="50%" height="50%">
+
 # Organizers:
 <p align="left">
     <img src="ieee-ompi/ieee_carleton.png" align="middle" alt="IEEE Carleton." height=45% width=45%/>
