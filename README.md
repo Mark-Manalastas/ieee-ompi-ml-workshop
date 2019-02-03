@@ -9,8 +9,8 @@
 | Date          | February 1 and 8, 2019  |
 | Presenter     | Ekaba Bisong, <br>Google Developer Expert in Machine Learning<br> Google Certified Professional Data Engineer  | -->
 
-| | | |
-|-|-|-|
+| | |
+|-|-|
 |__Title__| A Workshop on Machine Learning using Google Cloud Platform
 |__Date__ | February 1 and 8, 2019
 |__Presenter__ | __Ekaba Bisong__ <br>Google Developer Expert in Machine Learning<br> Google Certified Professional Data Engineer
