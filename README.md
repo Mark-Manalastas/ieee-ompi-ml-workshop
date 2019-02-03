@@ -13,7 +13,7 @@
 |-|-|-|
 |__Title__| A Workshop on Machine Learning using Google Cloud Platform |
 |__Date__ | February 1 and 8, 2019 |
-|__Presenter__ | Ekaba Bisong, <br>Google Developer Expert in Machine Learning<br> Google Certified Professional Data Engineer |
+|__Presenter__ | __Ekaba Bisong__ <br>Google Developer Expert in Machine Learning<br> Google Certified Professional Data Engineer |
 
 The goal of this workshop is to survey the field of machine learning and deep learning. It includes the steps for architecting and deploying a large-scale learning pipeline on Google Cloud Platform.
 
