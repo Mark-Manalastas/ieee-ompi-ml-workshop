@@ -32,6 +32,6 @@ This workshop contains the following section:
 
 # Organizers:
 <p align="left">
-    <img src="ieee-ompi/ieee_carleton.png" align="left" alt="IEEE Carleton." height=40% width=40%/>
-    <img src="ieee-ompi/ompi.png" align="left" alt="Ottawa Medical Physics Institute." height=40% width=40%/>
+    <img src="ieee-ompi/ieee_carleton.png" align="middle" alt="IEEE Carleton." height=40% width=40%/>
+    <img src="ieee-ompi/ompi.png" align="middle" alt="Ottawa Medical Physics Institute." height=40% width=40%/>
 </p>
