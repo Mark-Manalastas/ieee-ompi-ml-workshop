@@ -9,7 +9,7 @@
 The goal of this workshop is to survey the field of machine learning and deep learning. It includes the steps for architecting and deploying a large-scale learning pipeline on Google Cloud Platform.
 
 # Contents:
-This workshop contains the following sections:
+The workshop content is arranged in the following order:
 - <a href="./intro-gcp.ipynb">An Introduction to Google Cloud Platform (GCP)</a>
 - <a href="./setting-up-gcp.ipynb">Steps to set-up an account on GCP</a>
 - <a href="./datalab.ipynb">Working with Google Cloud Datalab</a>
